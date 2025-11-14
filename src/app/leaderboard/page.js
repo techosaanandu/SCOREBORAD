@@ -15,7 +15,7 @@ function Leaderboard() {
   const stallCounter = useRef(0);
 
   // Fixed categories
-  const categories = ["I", "II", "III", "IV", "C"];
+  const categories = ["I", "II", "III", "IV","V", "C"];
   // Fixed houses
   const houses = ["Ujjain", "Nalanda", "Taxila", "Vikramshila"];
 
