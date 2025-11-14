@@ -267,7 +267,7 @@ function Events() {
       <div className="absolute bottom-10 right-1 lg:bottom-10 lg:right-4 flex items-center gap-4 ">
         <div className="hidden lg:block">
           <Canvas
-            text={"https://swaralaya.vercel.app/"}
+            text={"https://scoreboard.vercel.app/"}
             options={{
               errorCorrectionLevel: "M",
               margin: 3,
